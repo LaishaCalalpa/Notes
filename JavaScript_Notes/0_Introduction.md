@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Cross-platform and **object-oritented** scripting language
+- Cross-platform and **object-oriented** scripting language
 - Contains standard library of objects ie.:
 
   - `Array`
